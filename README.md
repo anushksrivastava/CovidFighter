@@ -1,2 +1,2 @@
 # CovidFighter
-A simple 2D game with score feature made with HTML,JS.
+A simple 2D web based game with score feature made with HTML and JavaScript.
